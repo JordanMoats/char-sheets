@@ -1,4 +1,4 @@
-<div class="drawer">
+<div class="drawer h-screen">
 	<input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
 	<div class="drawer-content flex flex-col">
 		<!-- Navbar -->
@@ -33,7 +33,7 @@
 			</div>
 		</div>
 		<!-- Page content here -->
-		<h1>Why isn't this centered</h1>
+		<h1 class='flex place-items-center justify-center border-white border-2 h-full'>Home</h1>
 	</div>
 	<div class="drawer-side">
 		<label for="my-drawer-3" aria-label="close sidebar" class="drawer-overlay"></label>
