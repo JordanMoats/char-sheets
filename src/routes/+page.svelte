@@ -33,7 +33,7 @@
 			</div>
 		</div>
 		<!-- Page content here -->
-		<h1 class='flex place-items-center justify-center border-white border-2 h-full'>Home</h1>
+		<h1 class='flex place-items-center justify-center border-white border-2 h-full'>Home editing test</h1>
 	</div>
 	<div class="drawer-side">
 		<label for="my-drawer-3" aria-label="close sidebar" class="drawer-overlay"></label>
